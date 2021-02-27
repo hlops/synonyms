@@ -1,0 +1,15 @@
+#
+#   Copyright © 2020 Aram Meem Company Limited.  All Rights Reserved.
+#
+package.json
+package-lock.json
+docker/
+fonts/
+img/
+node_modules/
+src/assets/
+README.md
+.huskyrc.json
+.lintstagedrc.json
+tslint.json
+tsconfig.json
